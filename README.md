@@ -1,4 +1,4 @@
-# OIBSIP
+# OIBSIP TASK 2
 Oasis Infobyte Java Development Internship Tasks. # Task2
 
 //                                             :::TASK 2:::
